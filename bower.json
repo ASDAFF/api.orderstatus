@@ -1,0 +1,13 @@
+{
+  "name": "api.orderstatus",
+  "version": "2.4.2",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
